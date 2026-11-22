@@ -1,0 +1,106 @@
+{
+ "commune": "Andancette",
+ "departement": "26",
+ "maj": "2026-11-22T23:01:07Z",
+ "source": "classeur des relevés de Andancette",
+ "referentiel": [],
+ "aVerifier": [
+  {
+   "site": "AND-01",
+   "nom": "Rue de La Mairie",
+   "lat": 45.243339,
+   "lon": 4.805578,
+   "flux": "ordures_menageres",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-01",
+   "nom": "Rue de La Mairie",
+   "lat": 45.243339,
+   "lon": 4.805578,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-01",
+   "nom": "Rue de La Mairie",
+   "lat": 45.243339,
+   "lon": 4.805578,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-01",
+   "nom": "Rue de La Mairie",
+   "lat": 45.243339,
+   "lon": 4.805578,
+   "flux": "papier",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-02",
+   "nom": "Impasse des Chênes",
+   "lat": 45.241014,
+   "lon": 4.817111,
+   "flux": "ordures_menageres",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-02",
+   "nom": "Impasse des Chênes",
+   "lat": 45.241014,
+   "lon": 4.817111,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-02",
+   "nom": "Impasse des Chênes",
+   "lat": 45.241014,
+   "lon": 4.817111,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-02",
+   "nom": "Impasse des Chênes",
+   "lat": 45.241014,
+   "lon": 4.817111,
+   "flux": "papier",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-03",
+   "nom": "Allée des Acacias",
+   "lat": 45.243586,
+   "lon": 4.809434,
+   "flux": "ordures_menageres",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-03",
+   "nom": "Allée des Acacias",
+   "lat": 45.243586,
+   "lon": 4.809434,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-03",
+   "nom": "Allée des Acacias",
+   "lat": 45.243586,
+   "lon": 4.809434,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-03",
+   "nom": "Allée des Acacias",
+   "lat": 45.243586,
+   "lon": 4.809434,
+   "flux": "papier",
+   "nbUnites": 1
+  }
+ ],
+ "observations": []
+}
