@@ -1,17 +1,16 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-22T23:01:07Z",
+ "maj": "2026-11-23T23:16:12Z",
  "source": "classeur des relevés de Andancette",
- "referentiel": [],
- "aVerifier": [
+ "referentiel": [
   {
    "site": "AND-01",
    "nom": "Rue de La Mairie",
    "lat": 45.243339,
    "lon": 4.805578,
    "flux": "ordures_menageres",
-   "nbUnites": 1
+   "nbUnites": 3
   },
   {
    "site": "AND-01",
@@ -36,7 +35,9 @@
    "lon": 4.805578,
    "flux": "papier",
    "nbUnites": 1
-  },
+  }
+ ],
+ "aVerifier": [
   {
    "site": "AND-02",
    "nom": "Impasse des Chênes",
