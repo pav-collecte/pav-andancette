@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-23T23:16:12Z",
+ "maj": "2026-11-23T23:31:10Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -35,16 +35,14 @@
    "lon": 4.805578,
    "flux": "papier",
    "nbUnites": 1
-  }
- ],
- "aVerifier": [
+  },
   {
    "site": "AND-02",
    "nom": "Impasse des Chênes",
    "lat": 45.241014,
    "lon": 4.817111,
    "flux": "ordures_menageres",
-   "nbUnites": 1
+   "nbUnites": 3
   },
   {
    "site": "AND-02",
@@ -69,7 +67,9 @@
    "lon": 4.817111,
    "flux": "papier",
    "nbUnites": 1
-  },
+  }
+ ],
+ "aVerifier": [
   {
    "site": "AND-03",
    "nom": "Allée des Acacias",
