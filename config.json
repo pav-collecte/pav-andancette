@@ -1,14 +1,30 @@
 {
-  "_": "Configuration propre à Andancette. La diffusion du moteur n'y touche jamais. Les points de collecte ne sont PAS ici : ils arrivent par meteo/donnees.json.",
+  "_": "Généré par n8n depuis l’onglet Parametres du classeur de la commune. Ne pas modifier ici : ce serait écrasé.",
   "commune": {
     "nom": "Andancette",
     "departement": "26",
-    "prefixeCode": "AND"
+    "codePostal": "26140",
+    "codeInsee": "26009",
+    "prefixeCode": "AND",
+    "maire": "Frédéric CHENEVIER",
+    "telephone": "04 75 03 10 27",
+    "email": "mairie@andancette.fr",
+    "siteMairie": "https://www.andancette.fr/",
+    "logo": "logo.png",
+    "logoDrive": "https://drive.google.com/file/d/1LyRx4UVX02HC2glAHoQsZuHAAa8rpU3H/view"
   },
   "adresses": {
     "application": "https://pav-collecte.github.io/pav-andancette/",
     "meteo": "https://pav-collecte.github.io/pav-andancette/meteo/",
     "referentiel": "meteo/donnees.json"
+  },
+  "terrain": {
+    "rayonM": 100,
+    "precisionMaxM": 30,
+    "alerteJours": 2
+  },
+  "mentions": {
+    "source": "classeur de la commune, feuilles Référentiel et Observations"
   },
   "depot": {
     "endpoint": "https://n8n.srv1040760.hstgr.cloud/webhook/pav-photo"
@@ -17,13 +33,5 @@
     "hebergeur": "google-drive",
     "vue": "https://drive.google.com/file/d/{id}/view",
     "vignette": "https://drive.google.com/thumbnail?id={id}&sz=w{largeur}"
-  },
-  "terrain": {
-    "rayonM": 100,
-    "precisionMaxM": 30,
-    "alerteJours": 2
-  },
-  "mentions": {
-    "source": "classeur des relevés de Andancette"
   }
 }
