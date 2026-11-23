@@ -1,0 +1,29 @@
+{
+  "_": "Configuration propre à Andancette. La diffusion du moteur n'y touche jamais. Les points de collecte ne sont PAS ici : ils arrivent par meteo/donnees.json.",
+  "commune": {
+    "nom": "Andancette",
+    "departement": "26",
+    "prefixeCode": "AND"
+  },
+  "adresses": {
+    "application": "https://pav-collecte.github.io/pav-andancette/",
+    "meteo": "https://pav-collecte.github.io/pav-andancette/meteo/",
+    "referentiel": "meteo/donnees.json"
+  },
+  "depot": {
+    "endpoint": "https://n8n.srv1040760.hstgr.cloud/webhook/pav-photo"
+  },
+  "photos": {
+    "hebergeur": "google-drive",
+    "vue": "https://drive.google.com/file/d/{id}/view",
+    "vignette": "https://drive.google.com/thumbnail?id={id}&sz=w{largeur}"
+  },
+  "terrain": {
+    "rayonM": 100,
+    "precisionMaxM": 30,
+    "alerteJours": 2
+  },
+  "mentions": {
+    "source": "classeur des relevés de Andancette"
+  }
+}
