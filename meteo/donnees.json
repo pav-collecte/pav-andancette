@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-23T23:31:10Z",
+ "maj": "2026-11-23T23:46:12Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -67,16 +67,14 @@
    "lon": 4.817111,
    "flux": "papier",
    "nbUnites": 1
-  }
- ],
- "aVerifier": [
+  },
   {
    "site": "AND-03",
    "nom": "Allée des Acacias",
    "lat": 45.243586,
    "lon": 4.809434,
    "flux": "ordures_menageres",
-   "nbUnites": 1
+   "nbUnites": 3
   },
   {
    "site": "AND-03",
@@ -103,5 +101,121 @@
    "nbUnites": 1
   }
  ],
- "observations": []
+ "aVerifier": [],
+ "observations": [
+  {
+   "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
+   "ts": "2026-11-23T07:53:05.000Z",
+   "site": "AND-01",
+   "flux": "ordures_menageres",
+   "photo": "1sAD7fwRRSCV1RbmgUNSU5ZP_U7ymfRrB",
+   "inaccessible": false,
+   "vues": 2,
+   "dessus": 0,
+   "bloquees": 0,
+   "pleines": 0,
+   "depotSol": false,
+   "sacs": 0,
+   "cause": "",
+   "confiance": 0.6,
+   "texte": "Deux colonnes semi-enterrées grises à socle en gravillons lavés, couvercles propres, aucun déchet dessus ni au sol ; l'intérieur n'est pas visible.",
+   "personneVisible": false,
+   "plaqueLisible": false
+  },
+  {
+   "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
+   "ts": "2026-11-23T07:53:05.000Z",
+   "site": "AND-01",
+   "flux": "emballages",
+   "photo": "1sAD7fwRRSCV1RbmgUNSU5ZP_U7ymfRrB",
+   "inaccessible": false,
+   "vues": 1,
+   "dessus": 0,
+   "bloquees": 0,
+   "pleines": 0,
+   "depotSol": false,
+   "sacs": 0,
+   "cause": "",
+   "confiance": 0.65,
+   "texte": "Colonne aérienne grise avec ouverture jaune sur la droite, rien posé dessus ni au pied ; intérieur non visible.",
+   "personneVisible": false,
+   "plaqueLisible": false
+  },
+  {
+   "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
+   "ts": "2026-11-23T07:53:05.000Z",
+   "site": "AND-01",
+   "flux": "papier",
+   "photo": "1sAD7fwRRSCV1RbmgUNSU5ZP_U7ymfRrB",
+   "inaccessible": false,
+   "vues": 1,
+   "dessus": 0,
+   "bloquees": 0,
+   "pleines": 0,
+   "depotSol": false,
+   "sacs": 0,
+   "cause": "",
+   "confiance": 0.5,
+   "texte": "Colonne aérienne grise avec marquage bleu sur le côté gauche ; ouverture non visible de ce côté, rien dessus ni au sol. Flux attribué d'après la couleur bleue.",
+   "personneVisible": false,
+   "plaqueLisible": false
+  },
+  {
+   "uuid": "981ce629-17da-4883-a0ac-ac400ccacea7",
+   "ts": "2026-11-23T07:53:07.000Z",
+   "site": "AND-01",
+   "flux": "papier",
+   "photo": "1KVMDxDBgbqaLUXIOncbA5L7_dTurniRI",
+   "inaccessible": false,
+   "vues": 1,
+   "dessus": 0,
+   "bloquees": 0,
+   "pleines": 0,
+   "depotSol": false,
+   "sacs": 0,
+   "cause": "",
+   "confiance": 0.6,
+   "texte": "Colonne bleue à gauche, vue de dos/côté, ouverture non visible ; rien dessus ni au pied.",
+   "personneVisible": false,
+   "plaqueLisible": false
+  },
+  {
+   "uuid": "981ce629-17da-4883-a0ac-ac400ccacea7",
+   "ts": "2026-11-23T07:53:07.000Z",
+   "site": "AND-01",
+   "flux": "emballages",
+   "photo": "1KVMDxDBgbqaLUXIOncbA5L7_dTurniRI",
+   "inaccessible": false,
+   "vues": 1,
+   "dessus": 0,
+   "bloquees": 0,
+   "pleines": 0,
+   "depotSol": false,
+   "sacs": 0,
+   "cause": "",
+   "confiance": 0.85,
+   "texte": "Colonne jaune au centre, ouvertures visibles et vides, rien dessus ni au sol.",
+   "personneVisible": false,
+   "plaqueLisible": false
+  },
+  {
+   "uuid": "981ce629-17da-4883-a0ac-ac400ccacea7",
+   "ts": "2026-11-23T07:53:07.000Z",
+   "site": "AND-01",
+   "flux": "verre",
+   "photo": "1KVMDxDBgbqaLUXIOncbA5L7_dTurniRI",
+   "inaccessible": false,
+   "vues": 1,
+   "dessus": 0,
+   "bloquees": 0,
+   "pleines": 0,
+   "depotSol": false,
+   "sacs": 0,
+   "cause": "",
+   "confiance": 0.85,
+   "texte": "Colonne verte à droite avec deux ouvertures rondes, rien dessus ; quelques petits débris au pied sans sac distinct.",
+   "personneVisible": false,
+   "plaqueLisible": false
+  }
+ ]
 }
