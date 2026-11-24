@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-24T09:01:13Z",
+ "maj": "2026-11-24T10:16:14Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -97,6 +97,38 @@
    "nom": "Allée des Acacias",
    "lat": 45.243586,
    "lon": 4.809434,
+   "flux": "papier",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-05",
+   "nom": "Test  création",
+   "lat": 45.244349,
+   "lon": 4.844307,
+   "flux": "ordures_menageres",
+   "nbUnites": 2
+  },
+  {
+   "site": "AND-05",
+   "nom": "Test  création",
+   "lat": 45.244349,
+   "lon": 4.844307,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-05",
+   "nom": "Test  création",
+   "lat": 45.244349,
+   "lon": 4.844307,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-05",
+   "nom": "Test  création",
+   "lat": 45.244349,
+   "lon": 4.844307,
    "flux": "papier",
    "nbUnites": 1
   }
