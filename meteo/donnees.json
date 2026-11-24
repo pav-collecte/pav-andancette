@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-24T08:16:13Z",
+ "maj": "2026-11-24T09:01:13Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -101,7 +101,40 @@
    "nbUnites": 1
   }
  ],
- "aVerifier": [],
+ "aVerifier": [
+  {
+   "site": "AND-04",
+   "nom": "Test admin",
+   "lat": 45.244442,
+   "lon": 4.844156,
+   "flux": "ordures_menageres",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-04",
+   "nom": "Test admin",
+   "lat": 45.244442,
+   "lon": 4.844156,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-04",
+   "nom": "Test admin",
+   "lat": 45.244442,
+   "lon": 4.844156,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-04",
+   "nom": "Test admin",
+   "lat": 45.244442,
+   "lon": 4.844156,
+   "flux": "papier",
+   "nbUnites": 1
+  }
+ ],
  "observations": [
   {
    "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
