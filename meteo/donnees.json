@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-24T07:46:16Z",
+ "maj": "2026-11-24T08:01:15Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -99,41 +99,42 @@
    "lon": 4.809434,
    "flux": "papier",
    "nbUnites": 1
-  },
+  }
+ ],
+ "aVerifier": [
   {
-   "site": "AND-04",
-   "nom": "Essai",
-   "lat": 45.244416,
-   "lon": 4.844328,
+   "site": "AND-05",
+   "nom": "Test facturation",
+   "lat": 45.244346,
+   "lon": 4.844339,
    "flux": "ordures_menageres",
    "nbUnites": 1
   },
   {
-   "site": "AND-04",
-   "nom": "Essai",
-   "lat": 45.244416,
-   "lon": 4.844328,
+   "site": "AND-05",
+   "nom": "Test facturation",
+   "lat": 45.244346,
+   "lon": 4.844339,
    "flux": "emballages",
-   "nbUnites": 2
-  },
-  {
-   "site": "AND-04",
-   "nom": "Essai",
-   "lat": 45.244416,
-   "lon": 4.844328,
-   "flux": "verre",
    "nbUnites": 1
   },
   {
-   "site": "AND-04",
-   "nom": "Essai",
-   "lat": 45.244416,
-   "lon": 4.844328,
+   "site": "AND-05",
+   "nom": "Test facturation",
+   "lat": 45.244346,
+   "lon": 4.844339,
+   "flux": "verre",
+   "nbUnites": 2
+  },
+  {
+   "site": "AND-05",
+   "nom": "Test facturation",
+   "lat": 45.244346,
+   "lon": 4.844339,
    "flux": "papier",
    "nbUnites": 1
   }
  ],
- "aVerifier": [],
  "observations": [
   {
    "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
