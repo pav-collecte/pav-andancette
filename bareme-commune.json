@@ -116,6 +116,121 @@
       "nom": "Barème d’origine",
       "depuis": "2000-01-01",
       "origine": "modele"
+    },
+    {
+      "lettres": [
+        {
+          "l": "A",
+          "max": 1,
+          "lab": "Impeccable",
+          "desc": "rien au sol, conteneurs disponibles"
+        },
+        {
+          "l": "B",
+          "max": 4,
+          "lab": "Bon",
+          "desc": "incident isolé ou léger"
+        },
+        {
+          "l": "C",
+          "max": 7,
+          "lab": "Moyen",
+          "desc": "dépôts qui reviennent ou saturation partielle"
+        },
+        {
+          "l": "D",
+          "max": 9,
+          "lab": "Dégradé",
+          "desc": "dépôts réguliers ou conteneurs souvent pleins"
+        },
+        {
+          "l": "E",
+          "max": null,
+          "lab": "Point noir",
+          "desc": "dépôts massifs ou récidive chaque semaine"
+        }
+      ],
+      "proprete": {
+        "libelle": "Propreté au sol",
+        "_": "max = nombre de sacs au sol constatés sur la photo.",
+        "paliers": [
+          {
+            "max": 0,
+            "points": 0
+          },
+          {
+            "max": 2,
+            "points": 2
+          },
+          {
+            "max": 4,
+            "points": 5
+          },
+          {
+            "max": null,
+            "points": 8
+          }
+        ],
+        "_depotSansSac": "Dépôt constaté mais aucun sac dénombrable (carton, encombrant).",
+        "depotSansSac": 3
+      },
+      "remplissage": {
+        "libelle": "Remplissage",
+        "_": "max = part des conteneurs pleins ou bloqués, de 0 à 1.",
+        "inaccessible": 6,
+        "paliers": [
+          {
+            "max": 0,
+            "points": 0
+          },
+          {
+            "max": 0.3333,
+            "points": 3
+          },
+          {
+            "max": 0.6667,
+            "points": 7
+          },
+          {
+            "max": null,
+            "points": 8
+          }
+        ]
+      },
+      "recidive": {
+        "libelle": "Récidive",
+        "_": "max = nombre de passages avec dépôt au sol dans la fenêtre, celui du relevé compris.",
+        "fenetreJours": 30,
+        "paliers": [
+          {
+            "max": 0,
+            "points": 0
+          },
+          {
+            "max": 1,
+            "points": 1
+          },
+          {
+            "max": 3,
+            "points": 2
+          },
+          {
+            "max": null,
+            "points": 4
+          }
+        ]
+      },
+      "passage": {
+        "minutes": 20
+      },
+      "agregation": {
+        "ilot": "max",
+        "commune": "moyenne"
+      },
+      "id": "M2",
+      "nom": "Essai",
+      "depuis": "2026-11-25",
+      "origine": "modele"
     }
   ]
 }
