@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-25T10:46:17Z",
+ "maj": "2026-11-25T11:46:13Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -163,6 +163,78 @@
    "nom": "Test admin",
    "lat": 45.244442,
    "lon": 4.844156,
+   "flux": "papier",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-06",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "ordures_menageres",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-06",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-06",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-06",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "papier",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-06",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "carton",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-06",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "textile",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-07",
+   "nom": "Chemin Côte de Montalivet",
+   "lat": 45.235326,
+   "lon": 4.798338,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-07",
+   "nom": "Chemin Côte de Montalivet",
+   "lat": 45.235326,
+   "lon": 4.798338,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "AND-07",
+   "nom": "Chemin Côte de Montalivet",
+   "lat": 45.235326,
+   "lon": 4.798338,
    "flux": "papier",
    "nbUnites": 1
   }
