@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-26T12:16:13Z",
+ "maj": "2026-11-26T19:46:11Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -134,38 +134,6 @@
   }
  ],
  "aVerifier": [
-  {
-   "site": "AND-04",
-   "nom": "Test admin",
-   "lat": 45.244442,
-   "lon": 4.844156,
-   "flux": "ordures_menageres",
-   "nbUnites": 1
-  },
-  {
-   "site": "AND-04",
-   "nom": "Test admin",
-   "lat": 45.244442,
-   "lon": 4.844156,
-   "flux": "emballages",
-   "nbUnites": 1
-  },
-  {
-   "site": "AND-04",
-   "nom": "Test admin",
-   "lat": 45.244442,
-   "lon": 4.844156,
-   "flux": "verre",
-   "nbUnites": 1
-  },
-  {
-   "site": "AND-04",
-   "nom": "Test admin",
-   "lat": 45.244442,
-   "lon": 4.844156,
-   "flux": "papier",
-   "nbUnites": 1
-  },
   {
    "site": "AND-06",
    "nom": "Route de Talencieux",
