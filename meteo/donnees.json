@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-26T22:31:12Z",
+ "maj": "2026-11-26T23:16:11Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -98,14 +98,6 @@
    "lat": 45.243586,
    "lon": 4.809434,
    "flux": "papier",
-   "nbUnites": 1
-  },
-  {
-   "site": "AND-08",
-   "nom": "Yest laurent",
-   "lat": 45.244445,
-   "lon": 4.844272,
-   "flux": "ordures_menageres",
    "nbUnites": 1
   }
  ],
