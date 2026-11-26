@@ -1,7 +1,7 @@
 {
  "commune": "Andancette",
  "departement": "26",
- "maj": "2026-11-26T10:46:14Z",
+ "maj": "2026-11-26T12:16:13Z",
  "source": "classeur des relevés de Andancette",
  "referentiel": [
   {
@@ -257,7 +257,8 @@
    "confiance": 0.6,
    "texte": "Deux colonnes semi-enterrées grises à socle en gravillons lavés, couvercles propres, aucun déchet dessus ni au sol ; l'intérieur n'est pas visible.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
@@ -276,7 +277,8 @@
    "confiance": 0.65,
    "texte": "Colonne aérienne grise avec ouverture jaune sur la droite, rien posé dessus ni au pied ; intérieur non visible.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "5e0f205a-17e8-4828-89ec-fda939b88fe3",
@@ -295,7 +297,8 @@
    "confiance": 0.5,
    "texte": "Colonne aérienne grise avec marquage bleu sur le côté gauche ; ouverture non visible de ce côté, rien dessus ni au sol. Flux attribué d'après la couleur bleue.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "981ce629-17da-4883-a0ac-ac400ccacea7",
@@ -314,7 +317,8 @@
    "confiance": 0.6,
    "texte": "Colonne bleue à gauche, vue de dos/côté, ouverture non visible ; rien dessus ni au pied.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "981ce629-17da-4883-a0ac-ac400ccacea7",
@@ -333,7 +337,8 @@
    "confiance": 0.85,
    "texte": "Colonne jaune au centre, ouvertures visibles et vides, rien dessus ni au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "981ce629-17da-4883-a0ac-ac400ccacea7",
@@ -352,7 +357,8 @@
    "confiance": 0.85,
    "texte": "Colonne verte à droite avec deux ouvertures rondes, rien dessus ; quelques petits débris au pied sans sac distinct.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "8dadb5e4-6247-4d5b-9017-f71b2d56179b",
@@ -371,7 +377,8 @@
    "confiance": 0.6,
    "texte": "Une colonne semi-enterrée grise à dôme en béton gravillonné visible à gauche, sans sac posé dessus ni au pied, seule une tache sombre sur le sol ; l'ouverture est peu lisible.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "8dadb5e4-6247-4d5b-9017-f71b2d56179b",
@@ -390,7 +397,8 @@
    "confiance": 0.6,
    "texte": "Colonne grise à liseré vert, vue de côté : l'ouverture n'est pas visible, rien posé dessus ni sac au pied (quelques menus détritus seulement).",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "8dadb5e4-6247-4d5b-9017-f71b2d56179b",
@@ -409,7 +417,8 @@
    "confiance": 0.6,
    "texte": "Colonne grise à signalétique bleue 'PAPIER', vue de côté : ouverture non visible, rien posé dessus ni au pied.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "8dadb5e4-6247-4d5b-9017-f71b2d56179b",
@@ -428,7 +437,8 @@
    "confiance": 0.7,
    "texte": "Colonne à ouvertures blanches et étiquette jaune, coupée par le bord droit du cadre ; aucun déchet visible dans les ouvertures, dessus ou au sol.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "eae15017-c735-4d86-ba37-8b025751455e",
@@ -447,7 +457,8 @@
    "confiance": 0.75,
    "texte": "Deux colonnes semi-enterrées à dôme gris, tambours visibles, aucun déchet posé dessus ni au pied ; la tache sombre au sol n'est pas un dépôt de sacs.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "eae15017-c735-4d86-ba37-8b025751455e",
@@ -466,7 +477,8 @@
    "confiance": 0.6,
    "texte": "Grande colonne aérienne sombre à liseré vert, aucun déchet dessus ni au pied ; ouverture non visible, flux déduit de la couleur.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "eae15017-c735-4d86-ba37-8b025751455e",
@@ -485,7 +497,8 @@
    "confiance": 0.7,
    "texte": "Colonne aérienne avec bandeau bleu marqué PAPIER, rien dessus ni au pied ; ouverture non visible de ce côté.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "8c2bb714-9aad-40de-95e3-81514277d48d",
@@ -504,7 +517,8 @@
    "confiance": 0.8,
    "texte": "Trois colonnes semi-enterrées à dôme gris et tambour visibles, aucun déchet posé dessus ni sac au pied, seulement quelques petits papiers épars dans l'herbe.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "8c2bb714-9aad-40de-95e3-81514277d48d",
@@ -523,7 +537,8 @@
    "confiance": 0.75,
    "texte": "Colonnes vertes à ouvertures rondes alignées sur un socle béton, rien posé dessus ni au pied ; la première est vue de côté et son ouverture n'est pas visible.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "60b52d4b-b368-4bca-b2fd-c37f00583a68",
@@ -542,7 +557,8 @@
    "confiance": 0.75,
    "texte": "Colonne verte à autocollants jaunes à gauche, ouvertures visibles sans déchet dessus ni dans les ouvertures, rien au sol à son pied.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "60b52d4b-b368-4bca-b2fd-c37f00583a68",
@@ -561,7 +577,8 @@
    "confiance": 0.75,
    "texte": "Colonne verte à autocollants bleus au centre, ouvertures visibles sans déchet dessus ni dans les ouvertures, rien au sol à son pied.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "60b52d4b-b368-4bca-b2fd-c37f00583a68",
@@ -580,7 +597,8 @@
    "confiance": 0.7,
    "texte": "Colonne à autocollant vert/blanc à droite, rien dessus ; seul un petit plateau carton vide est posé au sol en bout de dalle, à l'écart des colonnes.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "7c9b3d84-1aa9-42a7-a527-56d9a67d5dfc",
@@ -599,7 +617,8 @@
    "confiance": 0.85,
    "texte": "Deux colonnes semi-enterrées grises à couvercle fermé, rien posé dessus ni au pied ; la troisième colonne attendue n'est pas visible.",
    "personneVisible": true,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "7c9b3d84-1aa9-42a7-a527-56d9a67d5dfc",
@@ -618,7 +637,8 @@
    "confiance": 0.85,
    "texte": "Colonne bleue entière, ouvertures dégagées, rien dessus ni au sol à son pied.",
    "personneVisible": true,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "7c9b3d84-1aa9-42a7-a527-56d9a67d5dfc",
@@ -637,7 +657,8 @@
    "confiance": 0.85,
    "texte": "Colonne jaune entière, ouvertures vides, rien dessus ni au pied.",
    "personneVisible": true,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "7c9b3d84-1aa9-42a7-a527-56d9a67d5dfc",
@@ -656,7 +677,8 @@
    "confiance": 0.8,
    "texte": "Colonne verte coupée par le bord droit du cadre mais ouvertures visibles et dégagées, rien dessus ni au sol.",
    "personneVisible": true,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "40eb8cbe-33c7-42a8-ac7a-5b6ec83796d1",
@@ -675,7 +697,8 @@
    "confiance": 0.72,
    "texte": "Deux colonnes semi-enterrées à socle en pierre et trappe inox fermée, rien posé dessus ni au pied ; l'intérieur n'est pas visible.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "40eb8cbe-33c7-42a8-ac7a-5b6ec83796d1",
@@ -694,7 +717,8 @@
    "confiance": 0.75,
    "texte": "Colonne à verre verte avec ouvertures rondes visibles, aucun déchet dessus, dans l'ouverture ni sac au pied (seulement quelques petits débris).",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "40eb8cbe-33c7-42a8-ac7a-5b6ec83796d1",
@@ -713,7 +737,8 @@
    "confiance": 0.72,
    "texte": "Colonne à papier bleue en partie coupée par le bord droit mais ouvertures visibles, rien dessus ni au sol visible.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "33a94ede-7f4f-4522-83be-90c0e822cd8e",
@@ -732,7 +757,8 @@
    "confiance": 0.85,
    "texte": "Colonne à verre verte vue de l'extérieur, rien posé dessus, rien au sol à son pied, aucun déchet visible dans l'ouverture.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "33a94ede-7f4f-4522-83be-90c0e822cd8e",
@@ -751,7 +777,8 @@
    "confiance": 0.85,
    "texte": "Colonne papier bleue vue de l'extérieur, rien posé dessus, sol propre à son pied, aucun déchet visible dans les ouvertures.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "33a94ede-7f4f-4522-83be-90c0e822cd8e",
@@ -770,7 +797,8 @@
    "confiance": 0.85,
    "texte": "Colonne emballages (ouvertures blanches, étiquette jaune) vue de l'extérieur, rien posé dessus, sol propre, aucun déchet visible dans les ouvertures.",
    "personneVisible": false,
-   "plaqueLisible": true
+   "plaqueLisible": true,
+   "agent": ""
   },
   {
    "uuid": "9e9a3930-8df3-4038-bee4-abf0844ed3ae",
@@ -789,7 +817,8 @@
    "confiance": 0.6,
    "texte": "Sur la colonne enterrée centrale, un sac noir est visible dans la goulotte, au niveau de l'ouverture : la pyramide semble atteindre l'ouverture. Rien au sol. La colonne de gauche n'est vue que par son dôme, sans ouverture visible, donc non comptée.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": "plein"
   },
   {
    "uuid": "9e9a3930-8df3-4038-bee4-abf0844ed3ae",
@@ -808,7 +837,8 @@
    "confiance": 0.6,
    "texte": "Colonne à verre verte partiellement coupée en bord droit du cadre. Ses ouvertures rondes sont visibles et dégagées. Aucun déchet dessus ni au sol visible.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "9e9a3930-8df3-4038-bee4-abf0844ed3ae",
@@ -827,7 +857,8 @@
    "confiance": 0.6,
    "texte": "Sur la colonne semi-enterrée centrale, un sac noir et d'autres déchets sont visibles dans le tambour/l'ouverture, ce qui suggère que la pyramide affleure l'ouverture ; rien au sol. Le second dôme à gauche est coupé, son ouverture n'est pas visible, donc non compté.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": "plein"
   },
   {
    "uuid": "9e9a3930-8df3-4038-bee4-abf0844ed3ae",
@@ -846,7 +877,8 @@
    "confiance": 0.6,
    "texte": "Colonne à verre verte coupée par le bord droit du cadre, deux ouvertures rondes visibles et dégagées, aucun déchet dessus ni au pied visible.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2507da9d-9e24-44e0-9d63-11fd1e196f85",
@@ -865,7 +897,8 @@
    "confiance": 0.85,
    "texte": "Colonne à verre verte avec ouvertures rondes, rien posé dessus ni au pied (seulement une tache de brûlure au sol).",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2507da9d-9e24-44e0-9d63-11fd1e196f85",
@@ -884,7 +917,8 @@
    "confiance": 0.85,
    "texte": "Colonne papier bleue, ouvertures dégagées, aucun déchet dessus ni au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2507da9d-9e24-44e0-9d63-11fd1e196f85",
@@ -903,7 +937,8 @@
    "confiance": 0.8,
    "texte": "Colonne à trappe jaune/blanche en arrière-plan, ouvertures dégagées, rien dessus ni au pied.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2507da9d-9e24-44e0-9d63-11fd1e196f85",
@@ -922,7 +957,8 @@
    "confiance": 0.85,
    "texte": "Colonne à verre (étiquette VERRE, ouvertures rondes vertes) sans déchet posé dessus, ouvertures sombres, rien au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2507da9d-9e24-44e0-9d63-11fd1e196f85",
@@ -941,7 +977,8 @@
    "confiance": 0.85,
    "texte": "Colonne papier (étiquette PAPIER, façade bleue) sans déchet dessus, ouvertures sombres sans déchets visibles, rien au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2507da9d-9e24-44e0-9d63-11fd1e196f85",
@@ -960,7 +997,8 @@
    "confiance": 0.8,
    "texte": "Colonne à façade claire avec étiquette jaune (emballages), ouvertures sombres, rien posé dessus ni au sol; identification du flux déduite de l'étiquette jaune.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "2533ca95-d4dd-4dea-8d6a-d8f92d441dd7",
@@ -979,7 +1017,8 @@
    "confiance": 0.6,
    "texte": "Colonne semi-enterrée « Ordures ménagères » : derrière le tambour inox, un sac noir et des déchets sont visibles à l'ouverture, ce qui suggère une pyramide qui affleure. Rien au sol. Cadrage et angle ne permettent pas d'être certain.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": "plein,sale"
   },
   {
    "uuid": "ed410508-171f-4451-852f-ad7a695fcb0a",
@@ -998,7 +1037,8 @@
    "confiance": 0.65,
    "texte": "Deux colonnes semi-enterrées à tambour : celle de gauche montre un tambour inox vide, celle de droite laisse voir un sac noir qui affleure et dépasse dans l'ouverture du tambour ; rien au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "ed410508-171f-4451-852f-ad7a695fcb0a",
@@ -1017,7 +1057,8 @@
    "confiance": 0.6,
    "texte": "Colonne à verre verte/turquoise partiellement coupée au bord droit du cadre, ouvertures rondes visibles sans déchet apparent dessus ni au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "ed410508-171f-4451-852f-ad7a695fcb0a",
@@ -1036,7 +1077,8 @@
    "confiance": 0.6,
    "texte": "Deux colonnes enterrées à tambour : celle de gauche a un tambour inox vide, celle de droite montre un sac noir qui affleure dans l'ouverture du tambour ; rien au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "ed410508-171f-4451-852f-ad7a695fcb0a",
@@ -1055,7 +1097,8 @@
    "confiance": 0.85,
    "texte": "Colonne à verre verte partiellement visible en bord de cadre, ouvertures rondes dégagées, rien dessus ni au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "ba80db9f-76c9-4d74-aaf7-6143990cdb97",
@@ -1074,7 +1117,8 @@
    "confiance": 0.85,
    "texte": "Colonne à verre verte entièrement visible, trois ouvertures rondes sombres, rien posé dessus ni au pied (seulement quelques feuilles mortes et une tache au sol).",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "ba80db9f-76c9-4d74-aaf7-6143990cdb97",
@@ -1093,7 +1137,8 @@
    "confiance": 0.85,
    "texte": "Colonne à papier bleue visible avec ses fentes sombres, aucun déchet dessus, dans l'ouverture ou au sol.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   },
   {
    "uuid": "ba80db9f-76c9-4d74-aaf7-6143990cdb97",
@@ -1112,7 +1157,8 @@
    "confiance": 0.78,
    "texte": "Colonne à emballages blanche/jaune partiellement masquée derrière la colonne à papier, aucun déchet visible dessus ni au pied ; ouvertures peu lisibles à cette distance.",
    "personneVisible": false,
-   "plaqueLisible": false
+   "plaqueLisible": false,
+   "agent": ""
   }
  ]
 }
