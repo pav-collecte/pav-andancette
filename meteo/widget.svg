@@ -4,7 +4,7 @@
 <text x="44" y="56" text-anchor="middle" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="600" fill="#fff">A</text>
 <text x="85" y="29" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#6A716B">POINTS DE COLLECTE — ANDANCETTE</text>
 <text x="85" y="51" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#1A1F1C">Impeccable</text>
-<text x="85" y="70" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#6A716B">3 des 3 points relevés · dernier le 27 novembre</text>
+<text x="85" y="70" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#6A716B">3 des 4 points relevés · dernier le 27 novembre</text>
 <rect x="15.0" y="86" width="103.6" height="26" rx="4" fill="#1b7a3e"/>
 <rect x="13.5" y="84.5" width="106.6" height="29" rx="5.5" fill="none" stroke="#1A1F1C" stroke-width="2"/>
 <text x="66.8" y="104" text-anchor="middle" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#fff">A</text>
@@ -30,6 +30,11 @@
 <text x="25.5" y="204" text-anchor="middle" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#fff">A</text>
 <text x="45" y="204" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#1A1F1C">Impasse des Chênes</text>
 <text x="545" y="204" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6A716B">Impeccable</text>
+<line x1="15" y1="214" x2="545" y2="214" stroke="#D8DCD7" stroke-width="1"/>
+<rect x="15" y="219" width="21" height="21" rx="6" fill="#b9c2bf"/>
+<text x="25.5" y="234" text-anchor="middle" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#fff">–</text>
+<text x="45" y="234" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#6A716B">Test</text>
+<text x="545" y="234" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6A716B">sans relevé</text>
 <line x1="15" y1="372" x2="545" y2="372" stroke="#D8DCD7" stroke-width="1"/>
 <text x="15" y="396" font-family="Barlow, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#6A716B">Bac-Score · relevés citoyens</text>
 <rect x="421" y="378" width="124" height="30" rx="15" fill="#F1F3F0" stroke="#D8DCD7"/>
